@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header1 {
+  height: 400px;
+  width: 100%;
+  background-color: #f65a83;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffe898;
+  font-size: xx-large;
+  font-family: "Dancing Script", cursive;
+  /* color-pallete
+  #FFF8BC
+  #FFE898
+  #FF87B2
+  #F65A83 */
+}
+.custom-shape-divider-top-1661261119 {
+  position: absolute;
+  top: 1370;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1661261119 svg {
+  position: relative;
+  display: block;
+  width: calc(132% + 1.3px);
+  height: 161px;
+}
+
+.custom-shape-divider-top-1661261119 .shape-fill {
+  fill: #f65a83;
+}
+
+.custom-shape-divider-bottom-1661261359 {
+  position: absolute;
+  bottom: 150;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1661261359 svg {
+  position: relative;
+  display: block;
+  width: calc(132% + 1.3px);
+  height: 161px;
+}
+
+.custom-shape-divider-bottom-1661261359 .shape-fill {
+  fill: #000000;
+}
+.section5 {
+  padding-top: 160px;
+
+  width: 100%;
+  height: 1000px;
+  background-color: white;
+  color: #0c0c0c;
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  font-family: "Dancing Script", cursive;
+}
